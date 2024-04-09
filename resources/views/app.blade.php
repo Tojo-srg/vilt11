@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel 11</title>
+    <title>Laravel Vilt11</title>
 
     @vite('resources/js/app.js')
     @inertiaHead
